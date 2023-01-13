@@ -1,6 +1,6 @@
 # News card App
 
-The link for the [preview](https://mihailkostov.github.io/Todo-app/)
+The link for the [preview](https://news-cards-mykhailo-kostov.netlify.app/)
 
 The project is made on React by using:
  - Typescript
