@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MihailKostov/News-cards.git/static/css/main.002c1e24.css",
+    "main.js": "/MihailKostov/News-cards.git/static/js/main.d58462a0.js",
+    "index.html": "/MihailKostov/News-cards.git/index.html",
+    "main.002c1e24.css.map": "/MihailKostov/News-cards.git/static/css/main.002c1e24.css.map",
+    "main.d58462a0.js.map": "/MihailKostov/News-cards.git/static/js/main.d58462a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.002c1e24.css",
+    "static/js/main.d58462a0.js"
+  ]
+}
