@@ -79,7 +79,7 @@ export const NewsCard: React.FC<Props> = ({ card, query }) => {
           </p>
         
           <Link
-            to={card.id.toString()}
+            to={`news/${card.id.toString()}`}
             className="card__link"
           >
             Read more
